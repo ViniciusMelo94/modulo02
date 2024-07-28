@@ -9,12 +9,12 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background-color: black;
+    background-color: rgb(26, 26, 26);
 }
 
 
 .btn-header {
-    border-radius: 20px;
+    border-radius: 24px;
     border-color: #FFCC00;
     background-color: #FFCC00;
     font-weight: 700;
